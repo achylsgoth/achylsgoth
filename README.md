@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @achylsgoth
-- 👀 I’m interested in AI and software development
+- 👀 I’m interested in Cyber security and software development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for internship or entry level job on cybersecurity or software development.
 - 📫 How to reach me ...
 
 <!---
